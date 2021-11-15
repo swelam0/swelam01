@@ -213,14 +213,11 @@ Alone we can do so little; together we can do so much.
 <br>
 <h4 align="center">🔥 Stats 🔥</h4>
 <hr>
-<br>
 <p align=center>
-  <div align=center>
-    <img src="https://github-profile-trophy.vercel.app/?username=swelam01&no-bg=true&theme=darkhub&title=MultiLanguage,Commits,Repositories,Followers"/>
-  </div>
-  
+<br>
+
   ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=swelam01&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true) 
-  
+
   <br>
 </p>
 <hr>
