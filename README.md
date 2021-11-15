@@ -216,7 +216,7 @@ Alone we can do so little; together we can do so much.
 <br>
 <p align=center>
   <div align=center>
-    <img src="https://github-profile-trophy.vercel.app/?username=swelam01&theme=monokai"/>
+  [![trophy](https://github-profile-trophy.vercel.app/?username=swelam01)](https://github.com/swelam01/github-profile-trophy)
   </div>
   
   ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=swelam01&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true) 
